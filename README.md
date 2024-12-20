@@ -1,3 +1,6 @@
+![Venushki Thilakawardana](https://github.com/VenushkiT/VenushkiT/blob/main/Venushki_Thilakawardana.png?raw=true)
+
+
 ## Hi there 👋
 
 I'm passionate about exploring new technologies and diving deep into programming languages, with a particular focus on **app development**, **AI**, and **machine learning**. I love pushing myself to learn and grow in diverse areas, and I'm always eager to gain new experiences.
