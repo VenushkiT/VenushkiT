@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a passionate individual currently diving deep into various programming languages and focused on app development, content creation, and machine learning. I strive to make the most of my time by exploring new avenues of interest and gaining valuable experience.
+I'm a passionate individual currently diving deep into various programming languages and focused on app development, artificial intelligence and machine learning. I strive to make the most of my time by exploring new avenues of interest and gaining valuable experience.
 
 🌍  I'm based in Colombo, Sri Lanka  
 ✉️  You can contact me at [venushkithilakawardana.official@gmail.com](mailto:venushkithilakawardana.official@gmail.com)  
