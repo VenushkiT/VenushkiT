@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-I'm a passionate individual currently diving deep into various programming languages and focused on app development, artificial intelligence and machine learning. I strive to make the most of my time by exploring new avenues of interest and gaining valuable experience.
+I'm passionate about exploring new technologies and diving deep into programming languages, with a particular focus on **app development**, **AI**, and **machine learning**. I love pushing myself to learn and grow in diverse areas, and I'm always eager to gain new experiences.
 
-🌍  I'm based in Colombo, Sri Lanka  
-✉️  You can contact me at [venushkithilakawardana.official@gmail.com](mailto:venushkithilakawardana.official@gmail.com)  
-🧠  I'm expanding my knowledge in **AI**, **Machine Learning**, and **Web Development**  
-🤝  I'm open to collaborating on development and research projects to gain new experience.  
-
----
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <div><strong>🌍 Location:</strong> Colombo, Sri Lanka</div>
+  <div><strong>✉️ Contact:</strong> <a href="mailto:venushkithilakawardana.official@gmail.com">venushkithilakawardana.official@gmail.com</a></div>
+  <div><strong>🧠 Currently learning:</strong> AI, Machine Learning, Web Development</div>
+  <div><strong>🤝 Open to collaborating:</strong> on development and research projects</div>
+</div>
 
 ## 🔨 Languages and Frameworks
 
